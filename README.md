@@ -48,8 +48,7 @@ www.linkedin.com/in/haripriyad
 ![Haripriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=haripriya-1212&show_icons=true&theme=transparent) 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=haripriya-1212&theme=transparent)](https://git.io/streak-stats)
 -->
-<img height=200 width=300 src="https://github-readme-stats.vercel.app/api?username=haripriya-1212&show_icons=true&theme=transparent" alt="Haripriya's Github Stats" />
-<a href="https://git.io/streak-stats"><img height=200 width=300 src="https://streak-stats.demolab.com/?user=haripriya-1212&theme=transparent"/></a>
+<img height=200 width=300 src="https://github-readme-stats.vercel.app/api?username=haripriya-1212&show_icons=true&theme=transparent" alt="Haripriya's Github Stats" /><a href="https://git.io/streak-stats"><img height=200 width=300 src="https://streak-stats.demolab.com/?user=haripriya-1212&theme=transparent"/></a>
 
 <!--
 <div class='container'>
