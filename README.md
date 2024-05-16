@@ -39,7 +39,7 @@ I am a Computer Science pre-final year student from The National Institute of En
 ## Get in Touch 📬
 
 <!-- - **[Personal Website / Blog]**(your_website_or_blog_link)-->
-- www.linkedin.com/in/haripriyad
+www.linkedin.com/in/haripriyad
 
 
 <!--
