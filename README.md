@@ -9,7 +9,7 @@ I am a Computer Science pre-final year student from The National Institute of En
 - 🌱 Currently learning: **Machine Learning, App Development**
 - 🔭 Working on: **Building a recommender system**
 - 🌍 Languages: **C, C++, Python, Dart**
-- 📫 How to reach me: **[haripriya01212@gmail.com]**
+- 📫 How to reach me: **haripriya01212@gmail.com**
 <!--
 ## My Skills 🧠
 
