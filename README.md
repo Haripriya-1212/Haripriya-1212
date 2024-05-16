@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I am a Computer Science pre-final year student from The National Institute of Engineering, Mysore. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I am a Computer Science pre-final year student from The National Institute of Engineering, Mysuru. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Machine Learning, App Development**
 - 🔭 Working on: **Building a recommender system**
