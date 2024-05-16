@@ -45,7 +45,7 @@ www.linkedin.com/in/haripriyad
 
 ## Stats 
 ![Haripriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=haripriya-1212&show_icons=true&theme=transparent) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haripriya-1212)](https://github.com/haripriya-1212/github-readme-stats)
+
 
 
 <!--
