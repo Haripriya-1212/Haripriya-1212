@@ -47,14 +47,14 @@ www.linkedin.com/in/haripriyad
 ![Haripriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=haripriya-1212&show_icons=true&theme=transparent) 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=haripriya-1212&theme=transparent)](https://git.io/streak-stats)
 
-
+<!--
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=haripriya-1212&show_icons=true&theme=transparent" />
 &nbsp;
 &nbsp;
 <img style="height: auto; width: 40%;" class="img" src="(https://streak-stats.demolab.com/?user=haripriya-1212&theme=transparent)](https://git.io/streak-stats)" /></div>
 </div>
-
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
