@@ -42,10 +42,10 @@ I am a Computer Science pre-final year student from The National Institute of En
  - **[Personal Website / Blog]**(your_website_or_blog_link)
 www.linkedin.com/in/haripriyad
 
--->
+
 ## Stats 
 ![Haripriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=haripriya-1212&show_icons=true&theme=dark) 
-
+-->
 
 <!--
 - 🔭 I’m currently working on ...
