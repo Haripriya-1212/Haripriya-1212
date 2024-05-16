@@ -48,7 +48,7 @@ www.linkedin.com/in/haripriyad
 [![GitHub Streak](https://streak-stats.demolab.com/?user=haripriya-1212&theme=transparent)](https://git.io/streak-stats)
 -->
 ### Languages and Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,flutter.raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,flutter,raspberrypi)](https://skillicons.dev)
 
 ## Stats 
 <img height=300 width=400 src="https://github-readme-stats.vercel.app/api?username=haripriya-1212&show_icons=true&theme=transparent" alt="Haripriya's Github Stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/streak-stats"><img height=300 width=400 src="https://streak-stats.demolab.com/?user=haripriya-1212&theme=transparent"/></a>
