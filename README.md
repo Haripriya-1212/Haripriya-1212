@@ -1,6 +1,6 @@
 # Hi there, I'm Haripriya! 👋
 
-![Banner Image](your_banner_image_url_here)
+<!--![Banner Image](your_banner_image_url_here)-->
 
 ## About Me 🚀
 
@@ -39,7 +39,7 @@ I am a Computer Science pre-final year student from The National Institute of En
 ## Get in Touch 📬
 
 <!-- - **[Personal Website / Blog]**(your_website_or_blog_link)-->
-- **[LinkedIn]**www.linkedin.com/in/haripriyad
+- www.linkedin.com/in/haripriyad
 
 
 <!--
