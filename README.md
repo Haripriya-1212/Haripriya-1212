@@ -48,7 +48,6 @@ www.linkedin.com/in/haripriyad
 
 
 ## Stats 
-I am a Computer Science pre-final year student from The National Institute of Engineering, Mysuru. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 <img height=300 width=400 src="https://github-readme-stats.vercel.app/api?username=haripriya-1212&show_icons=true&theme=transparent" alt="Haripriya's Github Stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git.io/streak-stats"><img height=300 width=400 src="https://streak-stats.demolab.com/?user=haripriya-1212&theme=transparent"/></a>
 
 <!--
