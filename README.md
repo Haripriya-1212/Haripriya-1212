@@ -4,10 +4,10 @@
 
 ## About Me 🚀
 
-I am a pre-final year computer science student at The National Institute of Engineering, Mysuru. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I am a final year computer science student at The National Institute of Engineering, Mysuru. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Machine Learning, App Development**
-- 🔭 Working on: **Building a recommender system**
+- 🔭 Working on: **ESP32 - project on it's application**
 - 🌍 Languages: **C, C++, Python, Dart**
 - 📫 How to reach me: **haripriya01212@gmail.com**
 
