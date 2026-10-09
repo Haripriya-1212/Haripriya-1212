@@ -2,14 +2,9 @@
 
 <!--![Banner Image](your_banner_image_url_here)-->
 
-## About Me 🚀
+Interested in what happens beneath the surface.
 
-I am a final year computer science student at The National Institute of Engineering, Mysuru. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
-- 🌱 Currently learning: **Machine Learning, App Development**
-- 🔭 Working on: **ESP32 - project on it's application**
-- 🌍 Languages: **C, C++, Python, Dart**
-- 📫 How to reach me: **haripriya01212@gmail.com**
+Somewhere between code, circuits, AI, and the occasional rabbit hole.
 
 
 <!--
